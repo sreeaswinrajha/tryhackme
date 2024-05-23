@@ -1,4 +1,21 @@
-view source
+view source : view the source code
 inspect
 debugger
 network
+
+view source:
+HTML : comentes represneting an commend lines in an system <! --  -->
+secr  : used to store the secret data of the user to view the page in which we can move to an website
+ther will be even directory we need to watch it in clear 
+frame work can help us to fiind the vulnarablity of the website(if we found the frame work version we need to search for it vulnarablity in the google)
+
+inspect:
+paywall : which will block us to view the page until we pay for it
+steps  : inspect -> premioum_customer_blocker -> diplay:block (to null)
+
+debugger:
+click on the inspect option -> debuger -> select the line of code which we need to debug
+
+network:
+used to see the request of the web page(both get && put)
+with that put request we can open an new page where all the datas are filled
