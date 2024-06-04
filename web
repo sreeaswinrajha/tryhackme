@@ -19,3 +19,13 @@ click on the inspect option -> debuger -> select the line of code which we need 
 network:
 used to see the request of the web page(both get && put)
 with that put request we can open an new page where all the datas are filled
+
+made up of:
+HTML 
+CSS
+javascript
+
+HTML inject:
+use an sql injection vulnarable to login to an another page of the website
+<a href ="http://hacker.com">http://hacker.com</a>
+<a> is used for creating an new webpage in which it may be a physing site or an male ware so we cn easily acess it
