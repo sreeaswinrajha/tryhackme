@@ -36,3 +36,14 @@ GET : used to get information from the server
 PUT : update information
 POST : create an new record
 DELETE : delete an information
+200 - ok
+201 - created
+301 - moved permently
+302 - found
+400 - bad request
+401 - not authorised
+403 - forbiden
+405 - method not allowed
+404 - page not found
+500 - internal server error
+503 - service unavilable
