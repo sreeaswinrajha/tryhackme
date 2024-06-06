@@ -1,0 +1,7 @@
+to find the type of hash we can use :nth 
+but to find hash type :
+nth --file admin.hash 
+
+use john to crack the password:
+john rockyou.txt --format=raw-md5 admin.hash   
+--format=raw-md5  => to use the hash
