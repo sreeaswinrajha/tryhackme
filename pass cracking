@@ -5,3 +5,8 @@ nth --file admin.hash
 use john to crack the password:
 john rockyou.txt --format=raw-md5 admin.hash   
 --format=raw-md5  => to use the hash
+
+
+using exploirt:
+use search sploit to search for the sploit and use the num to get the sploit in database
+$ searchsploit -m 47887
