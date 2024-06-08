@@ -1,0 +1,6 @@
+identication authidencation failer:
+we can create an new id as same to do the operation
+Let's understand this with the help of an example, say there is an existing user with the name admin, and we want access to their account, 
+so what we can do is try to re-register that username but with slight modification. We will enter " admin" without the quotes 
+(notice the space at the start). Now when you enter that in the username field and enter other required information like email id or password
+and submit that data, it will register a new user, but that user will have the same right as the admin account. That new user will also be able to see all the content presented under the user admin.
